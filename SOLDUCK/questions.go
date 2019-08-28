@@ -82,7 +82,7 @@ func populateQuestionsToken() {
 		Name:     "symbol",
 		Prompt:   &survey.Input{Message: "What is the symbol of the token?"},
 		Validate: survey.Required,
-	}
+	} 
 	qToken["Decimals"] = &survey.Question{
 		Name:     "decimals",
 		Prompt:   &survey.Input{Message: "What is the decimals of the token?"},
