@@ -2,6 +2,8 @@
 
 The SOLDUCK CLI provides a simple and interactive shell to document Ethereum-based smart contract development. 
 
+> SOLDUCK is a developer tool help organize scattered or premature documentation and clears out information gaps related to a standard Ethereum-based smart contract projects i.e. tokens, crowdsales, etc.
+
 ## Getting Started
 
 Build
