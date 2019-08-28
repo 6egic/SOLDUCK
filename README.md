@@ -1,3 +1,5 @@
+![solduck](https://github.com/realphant0m/SOLDUCK/blob/master/solduck.png)
+
 # SOLDUCK
 
 The SOLDUCK CLI provides a simple and interactive shell to document Ethereum-based smart contract development. 
