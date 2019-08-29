@@ -6,12 +6,12 @@ The SOLDUCK CLI provides a simple and interactive shell to document Ethereum-bas
 
 ## Getting Started
 
-Build
 1. Start the interactive shell: 
+2. Enjoy!
+
 ```
 "insert path"./SOLDUCK.go
 ```
-2. Enjoy!
 
 ### Prerequisites
 
